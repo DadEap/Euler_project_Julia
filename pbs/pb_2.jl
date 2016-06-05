@@ -1,5 +1,5 @@
 function solve()
-    threadhold = 4000000
+    threadhold = 4_000_000
     fib_values = [1, 1]
     i = 3
 
