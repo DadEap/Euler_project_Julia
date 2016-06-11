@@ -8,6 +8,7 @@
 include("pbs/pb_8.jl")
 include("pbs/pb_9.jl")
 include("pbs/pb_10.jl")
+include("pbs/pb_11.jl")
 
 include("utils/utils.jl")
 
