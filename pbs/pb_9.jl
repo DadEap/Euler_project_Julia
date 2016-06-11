@@ -6,7 +6,7 @@
 # a + b + c = k <=> m(m+n) = k / 2, for m>n
 
 function solve(number::Int)
-    for m = 1:number
+    for m = 2:number
         for n = 1:m-1
             if (m*(m+n) == number / 2)
                 a = m^2-n^2
